@@ -1,0 +1,2 @@
+# Nina
+Python hobbyist
